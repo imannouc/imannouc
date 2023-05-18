@@ -23,10 +23,12 @@
 ## 42 Stats:
 [![imannouc's 42 stats](https://badge.mediaplus.ma/darkblue/imannouc)](https://github.com/oakoudad/badge42)
 
-## Github Stats:
+<!-- ## Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imannouc&theme=algolia&show_icons=true&locale=en&layout=compact" alt="imannouc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imannouc&theme=algolia&show_icons=true&locale=en" alt="imannouc" /></p>
-
+ -->
 ## TryHackMe :
+https://tryhackme.com/p/learnoob
+
  <img src="https://tryhackme-badges.s3.amazonaws.com/learnoob.png" alt="TryHackMe">
